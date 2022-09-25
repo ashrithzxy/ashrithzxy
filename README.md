@@ -12,8 +12,8 @@
 ## Connect with me:
 
 [<img align="left" alt="ashrithx@gmail.com" width="22px" src="https://cdn.cdnlogo.com/logos/g/68/gmail-icon.svg" />][mail]
-[<img align="left" alt="ashrithzxy | Github" width="22px" src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg" />][github]
 [<img align="left" alt="ashrith.suresh | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" />][twitter]
+[<img align="left" alt="ashrithzxy | Github" width="22px" src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg" />][github]
 
 [twitter]: https://twitter.com/ashrith.suresh
 [mail]: mailto:ashrithx@gmail.com
