@@ -15,6 +15,6 @@
 [<img align="left" alt="ashrith.suresh | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" />][twitter]
 [<img align="left" alt="ashrithzxy | Github" width="22px" src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg" />][github]
 
-[twitter]: https://twitter.com/ashrith.suresh
+[twitter]: https://twitter.com/ashrithsuresh
 [mail]: mailto:ashrithx@gmail.com
 [github]: https://github.com/ashrithzxy
