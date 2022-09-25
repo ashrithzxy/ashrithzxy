@@ -11,9 +11,9 @@
 
 ## Connect with me:
 
+[<img align="left" alt="ashrithx@gmail.com" width="22px" src="https://cdn.cdnlogo.com/logos/g/68/gmail-icon.svg" />][mail]
 [<img align="left" alt="ashrith.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ashrithx@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][mail]
-[<img align="left" alt="ashrith.suresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ashrith.suresh | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" />][twitter]
 
 
 [twitter]: https://twitter.com/ashrith.suresh
